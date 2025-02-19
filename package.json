@@ -1,0 +1,18 @@
+{
+  "name": "qa_automation",
+  "version": "1.0.0",
+  "main": "james_blunt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "node-notifier": "^10.0.1",
+    "nodemailer": "^6.9.16",
+    "playwright": "^1.49.1"
+  }
+}

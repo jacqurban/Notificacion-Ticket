@@ -1,0 +1,7 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# vercel
+.vercel
+
+# Ignorar archivos de configuración de git
